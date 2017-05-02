@@ -16,6 +16,7 @@ NEWSPIDER_MODULE = 'wikipedia.spiders'
 
 # LOG_LEVEL = 'INFO'
 
+DEPTH_LIMIT = 1
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'wikipedia (+http://www.yourdomain.com)'

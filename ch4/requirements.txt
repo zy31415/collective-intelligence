@@ -2,6 +2,7 @@ scrapy
 beautifulsoup4
 jupyter
 requests
+nltk
 
 
 

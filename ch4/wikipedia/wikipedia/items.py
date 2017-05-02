@@ -14,4 +14,6 @@ class WikipediaItem(scrapy.Item):
     url = scrapy.Field()
     name = scrapy.Field()
     content = scrapy.Field()
+    referer = scrapy.Field()
+
 
